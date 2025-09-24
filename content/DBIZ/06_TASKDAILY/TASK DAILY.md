@@ -1,0 +1,9 @@
+---
+Status: true
+New field: 2025-06-22T21:54
+Stage: Source
+---
+
+-  [x] (@2025-04-16 16:43)Cập nhật thông tin truy cập các VMs on Sheet PVOIL  & upload on OneDrive DBIZ Phong Phan.
+      - file 4U.rar on zalo group "PVOIL-SSG_Kỹ thuật" 
+      - mật khẩu giải nén: 3AIS2zS9RE0R

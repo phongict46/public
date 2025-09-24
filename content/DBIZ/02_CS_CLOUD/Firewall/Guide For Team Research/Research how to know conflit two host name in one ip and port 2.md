@@ -1,0 +1,1 @@
+- Ping test ip:port resolve to domain name.

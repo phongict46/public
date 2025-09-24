@@ -1,0 +1,20 @@
+## Task Retire
+- I. Alway working and take note task every day the same with this is last day you self.
+- II. Adviser Topic you know and attach idea you want.
+- III. Don't receive any benefit form your organization except salary
+- IV. Help the people in team.
+- V. Help people in other team you trust.
+- VI. Don't join to any party in your organization.
+- VII. Reject any task unsuitable with your position and responsibility (Correct for all situation then working in any company, clear in the first time join to company).
+- VIII. Share any good idea help your organization develop.
+- VIIII. Send email retire to my leader/manager/HR/CEO.
+- IX. Conversation with my Leader/Manager (record any meeting create the comfortable perceive if have any accident in the feature).
+- X. Git for my Leader/Manager
+- XI. Share the plan for feature with my Leader/Manager:
+	- I. If suitable you will easy find new task/job form relationship).
+	- II. If you choose them for the people for referent  then apply to other company.
+	- III. You can comeback if you don't find new job/task expect.
+	- IV. You will have one more than friend for the wedding/party/coffee.
+	- V. You will have one more people can help you ask then you meet some accident in you task in the feature.
+- XII. 
+- [x] (@2025-08-02)Continue take note strategy for retire in DBIZ.

@@ -1,0 +1,2 @@
+- Send email notice already create new account office 365 with information provide by user team marketing and admin hr.
+- Send email link access directory include file management account and group in office 365
