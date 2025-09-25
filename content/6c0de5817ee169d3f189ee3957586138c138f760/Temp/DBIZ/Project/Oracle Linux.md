@@ -1,0 +1,2 @@
+- Test install on virtual home lab
+- compare among content ssh_config file in ubuntu linux and oracle linux
