@@ -1,2 +1,0 @@
-- Research method integration permission with active directory Microsoft windows server 2022.
-- Research method integration permission of linux ex: samba, active directory linux if suitable.
